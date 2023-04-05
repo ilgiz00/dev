@@ -1,0 +1,2 @@
+git add test.txt hello.txt
+git commit -m "new updatefile test.txt and hello.txt
