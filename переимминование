@@ -1,0 +1,3 @@
+mv a.txt a1.txt
+git rm a.txt
+gid add a1.txt
